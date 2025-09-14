@@ -56,5 +56,5 @@ Bibliografia secundária e materiais adicionais encontram-se no **Moodle** da UC
 ## 📌 Informações Úteis
 - Presença mínima obrigatória: **60%**  
 - Materiais e avisos adicionais: [Moodle ISMT](https://moodle.ismt.pt)  
-- Repositório de apoio: [Engenharia de Software](https://github.com/luiscunhacsc/ASES)  
+- Repositório de apoio: [Engenharia de Software](https://github.com/luiscunhacsc/ES_2025_26)  
 
